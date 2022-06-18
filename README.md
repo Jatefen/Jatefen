@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jatefen
-- 👀 I’m interested in develpoping app
+- 👀 I’m interested in developing app
 - 🌱 I’m currently learning c languge
-- 💞️ I’m looking to collaborate on my develpoping program
+- 💞️ I’m looking to collaborate on my developing program
 - 📫 How to reach me my qq number is 577947694
 
 <!---
